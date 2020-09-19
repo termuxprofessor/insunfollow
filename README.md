@@ -1,8 +1,8 @@
-# InsFollow
+# InsUnfollow
 <p align="center">
   <img src="https://1.bp.blogspot.com/-8J6nXMm4Fn4/X1nN5SrLvkI/AAAAAAAAAQ0/J8TNfruwGEgiAfOKxIiRD_q3dKOGUl-XQCLcBGAsYHQ/s530/Screenshot_20200910_122015.png" width="470" height="250">
 </p>
-Best Tool For Increase Instagram Follower.
+Best Tool For Unfollow All Your Followers In Instagram.
 
 ## Requirements
 1. openssl
@@ -18,18 +18,18 @@ Best Tool For Increase Instagram Follower.
 
 `$ pkg install git`
 
-`$ git clone https://github.com/termuxprofessor/insfollow`
+`$ git clone https://github.com/termuxprofessor/insunfollow`
 
-`$ cd insfollow`
+`$ cd insunfollow`
 
-`$ chmod +x insfollow.sh`
+`$ chmod +x insunfollow.sh`
 
 `$ termux-wake-lock`
 
-`$ bash insfollow.sh`
+`$ bash insunfollow.sh`
 
 ## • Watch Video Tutorial From Below
-* https://youtu.be/rAUuatLnBVo
+* www.youtube.com/c/TermuxProfessor
 ---
 
 <p align="center">
